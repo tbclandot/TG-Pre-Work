@@ -1,0 +1,13 @@
+p {
+    font-family: Arial;
+  }
+  
+  h1{
+    color: maroon;
+  }
+  
+  .title{
+    color: teal;
+  }
+
+  /*use .then name to reference html
