@@ -1,0 +1,1 @@
+// fumctions are for creating concise code
