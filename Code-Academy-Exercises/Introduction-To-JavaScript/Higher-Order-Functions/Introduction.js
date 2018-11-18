@@ -1,0 +1,1 @@
+// High order functions allow for better code and easier to debug
