@@ -1,0 +1,1 @@
+// Async JS and XML AJAX enables requests to made after initial load

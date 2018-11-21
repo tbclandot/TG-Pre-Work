@@ -1,0 +1,1 @@
+// ES8 introduces async which is easier to use

@@ -1,0 +1,1 @@
+// Fetch sends requests to api via get
